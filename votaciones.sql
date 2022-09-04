@@ -31,8 +31,8 @@ CREATE TABLE `Ranking` (
 --
 
 INSERT INTO `Ranking` (`id`, `valoraciones`, `votos`) VALUES
-(1, 'positivo', '35'),
-(2, 'negativo', '21');
+(1, 'positivo', '1'),
+(2, 'negativo', '0');
 
 --
 -- Índices para tablas volcadas
